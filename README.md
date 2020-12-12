@@ -5,7 +5,7 @@
 ![](https://github.com/thiagodpaulla/slideshow.github.io/blob/main/SlideShow%20.gif)
 
 ## Fique a vontade para interagir com o projeto no link:
-https://thiagodpaulla.github.io...........
+https://thiagodpaulla.github.io/slideshow.github.io/
 
 ### Entenda um pouco mais sobre como foi criado.
 
