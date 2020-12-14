@@ -21,7 +21,7 @@ https://thiagodpaulla.github.io/
   * [License](#license)
 
 
-#Project
+# Project
 
 💻 This is a slideshow project with the presentation of carousel-style images with dynamic loading of the images.
 A use strict directive was used that prevents, among other things, the creation of implicit variables, it was used because it was already known exactly what would be done.
