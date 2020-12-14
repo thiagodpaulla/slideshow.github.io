@@ -7,6 +7,10 @@
 ## Fique a vontade para interagir com o projeto no link:
 https://thiagodpaulla.github.io/slideshow.github.io/
 
+## Estique mais um pouquinho e conheça um pouco mais do que ando fazendo:
+https://thiagodpaulla.github.io/
+
+
 ### Entenda um pouco mais sobre como foi criado.
 
 <!--ts-->
