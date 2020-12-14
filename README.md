@@ -1,36 +1,36 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thiagodepaulla/)](https://www.linkedin.com/in/thiagodepaulla/)   [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/thiagodpaulla)](https://github.com/thiagodpaulla)
 
-# Olá e seja bem vindo ao  meu repositório
-## Conheça  o projeto slideshow, estilo carrocel com carregamento dinamico de imagens. 
+# Hello and welcome to my repository
+## Meet the slideshow project, carousel style with dynamic loading of images.
+
 ![](https://github.com/thiagodpaulla/slideshow.github.io/blob/main/SlideShow%20.gif)
 
-## Fique a vontade para interagir com o projeto no link:
+## Feel free to interact with the project at the link:
 https://thiagodpaulla.github.io/slideshow.github.io/
 
-## Estique mais um pouquinho e conheça um pouco mais do que ando fazendo:
+## Stretch a little more and, know a little more than I've been doing:
+
 https://thiagodpaulla.github.io/
 
 
-### Entenda um pouco mais sobre como foi criado.
-
-<!--ts-->
- * [Projeto](#projeto)  
- * [Tecnologias](#tecnologias) 
- * [Licença](#licença) 
- <!--te-->
-
-# Projeto
-💻
-Este é um projeto slideshow com a apresentação de imagens estilo carrocel com carregamento dinamico das imagens.
-Foi usada uma diretiva use strict que impede alem de outras coisas a criação de variaveis globias implicitas, foi utilizado pois ja se sabia exatamente o que seria feito.
-Para isso foi um criado um objeto jaison contendo um arrai com as imagens.
+###  Understand a little more about how it was created.
 
 
+  * [Project](#project)
+  * [Technologies](#technologies)
+  * [License](#license)
 
 
-# Tecnologias
+#Project
 
-🚀 O projeto foi desenvolvido usando as seguintes tecnologias
+💻 This is a slideshow project with the presentation of carousel-style images with dynamic loading of the images.
+A use strict directive was used that prevents, among other things, the creation of implicit variables, it was used because it was already known exactly what would be done.
+For this purpose, a jaison object was created containing an arrai with the images.
+
+
+# Technologies
+
+🚀 The project was developed using the following technologies
 
 
 ➜ JavaScript
@@ -40,6 +40,5 @@ Para isso foi um criado um objeto jaison contendo um arrai com as imagens.
 ➜ CSS
 
 
-# Licença
-📂 Distribuído sob a licença MIT. Veja LICENSE para mais informações.
- 
+# License
+📂 Distributed under the MIT license. See LICENSE for more information.
