@@ -17,8 +17,8 @@ https://thiagodpaulla.github.io/slideshow.github.io/
 
 # Projeto
 💻
-Este é um projeto slideshow com a apresentação de imagens estilo carrocel com carregamento dinamigo das imagens.
-Foi usada uma diretiva use strict que impede alemd e outras coisas a criação de variaveis globias implicitas, foi utilizado pois ja se sabia exatamente o que seria feito.
+Este é um projeto slideshow com a apresentação de imagens estilo carrocel com carregamento dinamico das imagens.
+Foi usada uma diretiva use strict que impede alem de outras coisas a criação de variaveis globias implicitas, foi utilizado pois ja se sabia exatamente o que seria feito.
 Para isso foi um criado um objeto jaison contendo um arrai com as imagens.
 
 
